@@ -7,21 +7,21 @@ const serifFont = Lora({ subsets: ['latin'], variable: '--font-serif' })
 const sansFont = Geist({ subsets: ['latin'], variable: '--font-sans' })
 
 export const metadata: Metadata = {
-  title: 'Portfolio',
-  description: 'Minimalistic markdown portfolio',
-  generator: 'v0.app',
+  title: 'Smart Bob',
+  description: 'About Smart Bob, and his career.',
+  generator: 'Smart Bob',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: 'https://jajbswnn7i6lgusn.public.blob.vercel-storage.com/novisurf.svg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: 'https://jajbswnn7i6lgusn.public.blob.vercel-storage.com/novisurf.svg',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: 'https://jajbswnn7i6lgusn.public.blob.vercel-storage.com/novisurf.svg',
         type: 'image/svg+xml',
       },
     ],
