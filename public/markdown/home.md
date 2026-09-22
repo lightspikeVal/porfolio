@@ -1,15 +1,14 @@
 # Smart Bob
 
-I’m a 14 years old developer. I founded Novisurf, the AI agent platform for developers. I’ve been coding for 7 years, and still doing self-study. 
+I am a 14‑year‑old developer and the founder of Novisurf, an AI‑agent platform for developers. I have been programming for seven years and continue to pursue self‑directed learning.
 
-I aim to make AI agents easier and cheaper to use. I'm building better tooling and MCPs to improve how AI agents work. 
+My goal is to make AI agents more accessible and cost‑effective. I am developing enhanced tooling and modular component packages (MCPs) to advance the capabilities of AI agents.
 
-These are what I did in my whole career up to date:
+Highlights of my career to date include:
 
-[Certificates I’ve gotten](./certificates)
+- [Certificates I have earned](./certificates)
+- [My early YouTube videos](https://youtube.com/playlist?list=PLJuXh9rR29hc&si=FbMzjDujs-i8EruD)
+- [Weekly Coding Lives](./weekly-coding-lives)
+- [Past projects](./pastprjs)
 
-[My Childhood Youtube videos](https://youtube.com/playlist?list=PLJuXh9rR29hc&si=FbMzjDujs-i8EruD)
-
-[Projects I built in the past](./pastprjs)
-
-You can read my blogs, or open-sourced projects, or subscribe on Youtube. [Reach out](mailto:smartbob@novisurf.tech) if interested.
+Feel free to read my blogs, explore my open‑source projects, or subscribe on YouTube. If you would like to connect, please [reach out](mailto:smartbob@novisurf.tech).
