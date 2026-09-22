@@ -2,7 +2,7 @@
 
 I’m a 14 years old developer. I founded Novisurf, the AI agent platform for developers. I’ve been coding for 7 years, and still doing self-study. 
 
-My goal is to make AI agents more easier to use, and not too costly. Also, to improve how AI agent works, with more tools and MCPs. 
+I aim to make AI agents easier and cheaper to use. I'm building better tooling and MCPs to improve how AI agents work. 
 
 These are what I did in my whole career up to date:
 
